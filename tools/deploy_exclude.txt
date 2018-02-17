@@ -1,0 +1,6 @@
+node_modules
+/tools/deploy.php
+/tools/deploy_exclude.txt
+.git
+.gitignore
+.gitattributes
